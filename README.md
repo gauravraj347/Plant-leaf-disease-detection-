@@ -5,7 +5,7 @@ The primary objective is to offer farmers and agricultural experts a valuable to
 ## Project Structure
 The project comprises essential components:
 - **Plant_Disease_Detection.ipynb**: Jupyter Notebook with the code for model training.
-- **main_app.py**: Streamlit web application for plant disease prediction.
+- **main.py**: Streamlit web application for plant disease prediction.
 - **plant_disease_model.h5**: Pre-trained model weights.
 - **requirements.txt**: List of necessary Python packages.
 
