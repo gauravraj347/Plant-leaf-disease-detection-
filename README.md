@@ -14,5 +14,13 @@ To run the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git@github.com:gauravraj347/Plant-leaf-disease-detection-.git
-
+2. Navigate to the project directory:
+   ```bash
+   cd app
+3. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+4. Install the required packages:
+   ```bash
+   streamlit run main.py
   
